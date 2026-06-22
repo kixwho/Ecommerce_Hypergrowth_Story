@@ -27,8 +27,8 @@ After normalizing for partial year data, Q4 shows consistent YoY growth, suggest
 <img width="556" height="656" alt="image" src="https://github.com/user-attachments/assets/0dc50682-49a2-4e45-8606-c70701f8cf6c" />
 
 #### Insights:
-    -Top 5 cities only account for ~27% of total revenue → Revenue is dispersed
+* Top 5 cities only account for ~27% of total revenue → Revenue is dispersed
     
-    -Rank by orders match rank by revenue → Order volume ~ revenue power
+* Rank by orders match rank by revenue → Order volume ~ revenue power
 #### Strategy implication:
 Revenue is not geographically concentrated. Top 5 cities contribute 27% of total revenue, indicating a long-tail demand distribution rather than reliance on a few key hubs. This points to a more resilient revenue base and growth opportunities may lie in scaling broadly across regions.
