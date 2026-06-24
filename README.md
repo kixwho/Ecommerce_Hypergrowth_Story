@@ -1,4 +1,4 @@
-# SQL-Revenue_performance_analysis
+# Revenue_performance_analysis
 
 Revenue analysis of e-commerce transaction data, focusing on growth trends, anomalies, and key drivers across products and geography.
 
