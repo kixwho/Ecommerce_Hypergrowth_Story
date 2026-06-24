@@ -51,3 +51,11 @@ CREATE TABLE olist.customers (
     customer_city text,
     customer_state text
 );
+
+--sellers table
+CREATE TABLE sellers (
+	seller_id text,
+	seller_zip_code_prefix int,
+	seller_city text,
+	seller_state text
+);
