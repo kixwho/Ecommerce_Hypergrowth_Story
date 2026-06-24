@@ -21,7 +21,7 @@ After normalizing for partial year data, Q4 shows consistent YoY growth, suggest
 <br>
 
 ### 4. Revenue by Product Categories <p></p>
-<img width="620" height="577" alt="image" src="https://github.com/user-attachments/assets/93599cfb-0d77-4e92-8404-850612924d94" />
+<img width="609" height="577" alt="image" src="https://github.com/user-attachments/assets/14302abf-0475-464e-8383-a97306f17e35" />
 
 ### 5. Revenue by City <p>
 <img width="556" height="656" alt="image" src="https://github.com/user-attachments/assets/0dc50682-49a2-4e45-8606-c70701f8cf6c" />
