@@ -59,17 +59,17 @@ WHERE month BETWEEN 9 AND 12;
 WITH revenue_by_product AS (
 	SELECT
 		p.product_category_name AS product_category,
-		SUM(o.price) AS revenue
+		SUM(o.price) AS product_revenue
 	FROM order_items o
 	JOIN products p ON o.product_id=p.product_id
 	GROUP BY p.product_category_name
 )
 SELECT
 	product_category,
-	revenue,
-	ROUND(revenue / SUM(revenue) OVER () *100, 2) AS pct_revenue_share
+	product_revenue,
+	ROUND(product_revenue / SUM(product_revenue) OVER () *100, 2) AS pct_revenue_share
 FROM revenue_by_product
-ORDER BY revenue DESC
+ORDER BY product_revenue DESC
 LIMIT 5;
 
 --5. Top 5 revenue generating cities
