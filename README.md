@@ -1,12 +1,22 @@
 # Olist Growth Story
 
 # Executive Summary
-Olist, a Brazilian e-commerce marketplace, achieved explosive growth in 2017. Revenue multiplied more than 100-fold on a yearly basis, with some months growing from almost no revenue a year ago to over 1M R$, despite customer behavior metrics such as Orders per Customer and average order size remaining largely constant. Olist won by scaling the marketplace:
+Olist, a Brazilian e-commerce marketplace, achieved explosive growth in 2017. Revenue multiplied more than 100-fold on a yearly basis, with some months growing from almost no revenue a year ago to over 1M R$. **Olist won by scaling the marketplace, not by changing customer behavior**. On the ecosystem expansion side:
  * Active customers grew by thousands of times
  * Active sellers grew by hundreds of times
- * Product categories grew by tens of times * 
+ * Product categories grew by tens of times
 
-Instead of specializing into key product categories, Olist maintained a broad product offering across dispersed geography. Equally importantly, Olist maintained its attractiveness to small-to-medium sellers by providing a highly streamlined setup process that allowed instant access to multiple retail channels under a unified contract. 
+Yet on the customer behavior side, metrics such as Orders per Customer and Average order size remained largely constant. Even successful promotional events such as Black Friday 2017 fail to demonstrate durable growth.
+
+## Ecosystem Expansion
+<img width="1188" height="390" alt="image" src="https://github.com/user-attachments/assets/20a968e0-908e-4d3a-859e-84d159006a95" />
+
+While the dataset does not allow rigorous analysis into causal attribution, the simultaneous expansion of customers, sellers, and categories does suggest that marketplace scale was a dominant revenue growth driver. For instance, Olist differentiated itself to the sellers by providing a highly streamlined setup process, allowing small-to-medium businesses instant access to multiple retail channels that were previously harder to access. This strategy coincides with **durable seller growth** seen across the timeline.
+
+A similar pattern is seen with product categories. Instead of specializing into key categories, Olist maintained a **broad product offering** across dispersed geography (see SQL Queries section for more).
+
+## Customer Behavior
+
 
 ### 1. Total Revenue
 <img width="521" height="358" alt="image" src="https://github.com/user-attachments/assets/89007f35-bb99-4f57-b902-788b04e94b4a" />
