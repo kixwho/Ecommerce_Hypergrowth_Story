@@ -13,7 +13,7 @@ Yet on the customer behavior side, metrics such as Orders per Customer and Avera
 
 While the dataset does not allow rigorous analysis into causal attribution, the simultaneous expansion of the number of customers, sellers, and categories does suggest that marketplace scale was a dominant revenue growth driver. For instance, Olist differentiated itself to the sellers by providing a highly streamlined setup process, allowing small-to-medium businesses instant access to multiple retail channels that were previously harder to access. This strategy coincides with **durable seller growth** seen across the timeline.
 
-A similar pattern is seen with product categories. Instead of specializing into key categories, Olist maintained a broad product offering across dispersed geography (see SQL Queries section for more).
+A similar pattern is seen with product categories. Instead of specializing into key categories, Olist maintained a broad product offering across dispersed geography ([see SQL Queries section for more]()).
 
 ## The Black Friday Effect
 Frequently dicussed as a crucial growth driver, promotional/seasonal events such as 2017 Black Friday coincide with a sharp surge in revenue.
@@ -26,8 +26,9 @@ However, **customer behavior metrics** do not show a dramatic surge. Average ord
 
 ## Conclusion
 Olist's hypergrowth story centered around successful marketplace expansion. Revenue increased alongside rapid growth in active customers, sellers, and product categories, while core behavioral metrics such as orders per customer and average order size remained structurally stable throughout the period. This indicates that the primary driver of growth was scaling participation across the ecosystem, not increased purchasing intensity within users. Promotional events such as Black Friday generate sharp but short-lived revenue spikes, yet do not translate into durable shifts in customer behavior metrics.
+<br>
 
-
+## Appendix
 ### SQL Exploratory Analysis
 <img width="521" height="358" alt="image" src="https://github.com/user-attachments/assets/89007f35-bb99-4f57-b902-788b04e94b4a" />
 
@@ -39,8 +40,14 @@ Olist's hypergrowth story centered around successful marketplace expansion. Reve
 
 <img width="651" height="613" alt="image" src="https://github.com/user-attachments/assets/ff63d1da-c370-43e7-b537-2b51ec1dc560" />
 
+Note: After normalizing for partial year data, Q4 shows consistent YoY growth, suggesting that the apparent revenue jump is driven by underlying business expansion rather than a one-time anomaly.
+
 <br>
 
 <img width="609" height="577" alt="image" src="https://github.com/user-attachments/assets/14302abf-0475-464e-8383-a97306f17e35" />
 
 <img width="556" height="656" alt="image" src="https://github.com/user-attachments/assets/0dc50682-49a2-4e45-8606-c70701f8cf6c" />
+
+Note:
+* Top 5 cities only account for ~27% of total revenue → Revenue is dispersed    
+* Rank by orders match rank by revenue → Order volume ~ revenue power
