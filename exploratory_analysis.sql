@@ -1,7 +1,7 @@
 -- Revenue Performance Analysis (Olist E-commerce Dataset)
 -- Focus: growth trends, anomaly investigation, product and geographic revenue drivers
 -- Author: Kiki Wu
--- Notes: All revenue calculated using payment_value, not adjusted for fulfillment outcomes
+-- Notes: All revenue calculated using payment_value, not adjusted for fulfillment outcomes, except for product-level comparison
 
 --1. How much revenue is generated on a yearly basis?
 
