@@ -1,6 +1,12 @@
-# Revenue_performance_analysis
+# Olist Growth Story
 
-Revenue analysis of e-commerce transaction data, focusing on growth trends, anomalies, and key drivers across products and geography.
+# Executive Summary
+Olist, a Brazilian e-commerce marketplace, achieved explosive growth in 2017. Revenue multiplied more than 100-fold on a yearly basis, with some months growing from almost no revenue a year ago to over 1M R$, despite customer behavior metrics such as Orders per Customer and average order size remaining largely constant. The success of its growth strategy centered on **more**:
+ * Number of active sellers grew by hundreds of times
+ * Product categories grew by tens of times
+ * Number of active customers grew by thousands of times
+
+Instead of specializing into key product categories, Olist maintained a broad product offering across dispersed geography. Equally importantly, Olist maintained its attractiveness to small-to-medium sellers by providing a highly streamlined setup process that allowed instant access to multiple retail channels under a unified contract. 
 
 ### 1. Total Revenue
 <img width="521" height="358" alt="image" src="https://github.com/user-attachments/assets/89007f35-bb99-4f57-b902-788b04e94b4a" />
