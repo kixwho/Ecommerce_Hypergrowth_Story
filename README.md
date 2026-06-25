@@ -13,7 +13,7 @@ Yet on the customer behavior side, metrics such as Orders per Customer and Avera
 
 While the dataset does not allow rigorous analysis into causal attribution, the simultaneous expansion of the number of customers, sellers, and categories does suggest that marketplace scale was a dominant revenue growth driver. For instance, Olist differentiated itself to the sellers by providing a highly streamlined setup process, allowing small-to-medium businesses instant access to multiple retail channels that were previously harder to access. This strategy coincides with **durable seller growth** seen across the timeline.
 
-A similar pattern is seen with product categories. Instead of specializing into key categories, Olist maintained a broad product offering across dispersed geography ([see SQL Queries section for more]()).
+A similar pattern is seen with product categories. Instead of specializing into key categories, Olist maintained a broad product offering across dispersed geography ([see SQL Queries section for more](#SQL-Exploratory-Analysis)).
 
 ## The Black Friday Effect
 Frequently dicussed as a crucial growth driver, promotional/seasonal events such as 2017 Black Friday coincide with a sharp surge in revenue.
