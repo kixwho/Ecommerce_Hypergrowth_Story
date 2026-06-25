@@ -27,8 +27,15 @@ However, **customer behavior metrics** do not show a dramatic surge. Average ord
 ## Conclusion
 Olist's hypergrowth story centered around successful marketplace expansion. Revenue increased alongside rapid growth in active customers, sellers, and product categories, while core behavioral metrics such as orders per customer and average order size remained structurally stable throughout the period. This indicates that the primary driver of growth was scaling participation across the ecosystem, not increased purchasing intensity within users. Promotional events such as Black Friday generate sharp but short-lived revenue spikes, yet do not translate into durable shifts in customer behavior metrics.
 <br>
+<br>
+<br>
 
 ## Appendix
+### Methodology Notes
+* Revenue is calculated using customer payments processed, or SUM(payment_value), except when comparing product-level revenue. The two metrics may differ due to factors that are not fully accounted for in the dataset, such as shipping, discounts, and payment structure. For this reason, product-level revenue was exclusively used for comparing between product categories, in which case the metric can act as a meaningful indicator of product profitability.
+
+* Marketplace KPIs were plotted on a _log scale_ to better visualize the exponential growth in several metrics in Olist's early growth phase. While they were each on a different scale in absolute values, on log scale they demonstrated a consistent growth pattern.
+
 ### SQL Exploratory Analysis
 <img width="521" height="358" alt="image" src="https://github.com/user-attachments/assets/89007f35-bb99-4f57-b902-788b04e94b4a" />
 
@@ -51,3 +58,5 @@ Note: After normalizing for partial year data, Q4 shows consistent YoY growth, s
 Note:
 * Top 5 cities only account for ~27% of total revenue → Revenue is dispersed    
 * Rank by orders match rank by revenue → Order volume ~ revenue power
+* long-tail demand distribution seems to indicate a more resilient revenue base
+* growth opportunities may lie in scaling broadly and not specializing in key hubs
