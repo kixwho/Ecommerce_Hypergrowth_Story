@@ -9,7 +9,7 @@ Olist, a Brazilian e-commerce marketplace, achieved explosive growth in 2017. Re
 Yet on the customer behavior side, metrics such as Orders per Customer and Average order size remained largely constant. Even successful promotional events such as Black Friday 2017 failed to demonstrate durable growth.
 
 ## Ecosystem Expansion
-<img width="1188" height="390" alt="image" src="https://github.com/user-attachments/assets/20a968e0-908e-4d3a-859e-84d159006a95" />
+<img width="1188" height="390" alt="image" src="https://github.com/user-attachments/assets/c68f3686-7d61-4b4f-8b3d-77d89d3028cc" />
 
 While the dataset does not allow rigorous analysis into causal attribution, the simultaneous expansion of the number of customers, sellers, and categories does suggest that marketplace scale was a dominant revenue growth driver. For instance, Olist differentiated itself to the sellers by providing a highly streamlined setup process, allowing small-to-medium businesses instant access to multiple retail channels that were previously harder to access. This strategy coincides with **durable seller growth** seen across the timeline.
 
