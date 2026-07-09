@@ -32,6 +32,8 @@ Olist's hypergrowth story centered around successful marketplace expansion. Reve
 
 ## Appendix
 ### Methodology Notes
+* Join validation: When creating the monthly KPI view in SQL, I checked table grain and key uniqueness to avoid unintended row multiplication. Detail tables such as payments and order_items contain multiple rows per order, and joining multiple one-to-many tables created a fan-out effect that inflated aggregates. For this reason, revenue metrics were first aggregated to the order level before joining with other order details.
+
 * Revenue is calculated using customer payments processed, or SUM(payment_value), except when comparing product-level revenue. The two metrics may differ due to factors that are not fully accounted for in the dataset, such as shipping, discounts, and payment structure. For this reason, product-level revenue was exclusively used for comparing between product categories, in which case the metric can act as a meaningful indicator of product profitability.
 
 * Marketplace KPIs were plotted on a _log scale_ to better visualize the exponential growth in several metrics in Olist's early growth phase. While they were each on a different scale in absolute values, on log scale they demonstrated a consistent growth pattern.
