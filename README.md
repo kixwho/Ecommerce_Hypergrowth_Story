@@ -20,9 +20,9 @@ Frequently dicussed as a crucial growth driver, promotional/seasonal events such
 
 <img width="559" height="267" alt="image" src="https://github.com/user-attachments/assets/46e7ba19-255b-4acf-ae4a-8a68a4f6aa28" />
 
-However, **customer behavior metrics** do not show a dramatic surge. Average order size in dollar amount peaked earlier that year in September. Orders per customer only fluctuated within a narrow band (IQR of 1.00 to 1.02), with one outlier dramatically outperforming in New Year's holiday week.
+However, **customer behavior metrics** do not show a dramatic surge. Average Order Value peaked earlier that year in September. Orders per customer only fluctuated within a narrow band (IQR of 1.00 to 1.02), with one outlier dramatically outperforming in New Year's holiday week (which is only noticeable on log scale).
 
-<img width="768" height="255" alt="image" src="https://github.com/user-attachments/assets/c707ce70-a4af-479c-b613-77c2ae5a5fff" />
+<img width="770" height="255" alt="image" src="https://github.com/user-attachments/assets/e61eae0e-bb7f-4c2d-8484-23443e135384" />
 
 ## Conclusion
 Olist's hypergrowth story centered around successful marketplace expansion. Revenue increased alongside rapid growth in active customers, sellers, and product categories, while core behavioral metrics such as orders per customer and average order size remained structurally stable throughout the period. This indicates that the primary driver of growth was scaling participation across the ecosystem, not increased purchasing intensity within users. Promotional events such as Black Friday generate sharp but short-lived revenue spikes, yet do not translate into durable shifts in customer behavior metrics.
