@@ -24,6 +24,15 @@ However, **customer behavior metrics** do not show a dramatic surge. Average Ord
 
 <img width="770" height="255" alt="image" src="https://github.com/user-attachments/assets/e61eae0e-bb7f-4c2d-8484-23443e135384" />
 
+## The Real Growth Driver
+So if we look at the business as a whole, beyond the impact of individual promotional events, which lever is more likely to lead to durable, long-term growth for Olist?
+
+<img width="287" height="104" alt="image" src="https://github.com/user-attachments/assets/4485d462-366d-4c0b-9bca-9ad781da3af2" />
+
+The answer points to acquiring more active customers. Throughout the hypergrowth phase, customer count has shown an extremely strong relationship with revenue, moving almost perfectly with the growth in revenue. Whereas customer behavior metrics are fairly weak or even negative.
+
+It would be interesting to look at Olist's **customer acquisition cost**, conversion rates and channel efficiency as an essential part of future growth strategy.
+
 ## Conclusion
 Olist's hypergrowth story centered around successful marketplace expansion. Revenue increased alongside rapid growth in active customers, sellers, and product categories, while core behavioral metrics such as orders per customer and average order size remained structurally stable throughout the period. This indicates that the primary driver of growth was scaling participation across the ecosystem, not increased purchasing intensity within users. Promotional events such as Black Friday generate sharp but short-lived revenue spikes, yet do not translate into durable shifts in customer behavior metrics.
 <br>
