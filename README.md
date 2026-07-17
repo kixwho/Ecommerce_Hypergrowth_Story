@@ -1,4 +1,4 @@
-# Olist Hypergrowth Story
+<img width="804" height="130" alt="image" src="https://github.com/user-attachments/assets/af21d6f5-9e48-43b0-88cb-1948cbe15cce" />
 
 # Executive Summary
 Olist, a Brazilian e-commerce marketplace, achieved explosive growth in 2017. Revenue multiplied more than 100-fold on a yearly basis, with some months growing from almost no revenue a year ago to over 1M R$. **Olist won by scaling the marketplace, not by changing customer behavior**. On the ecosystem expansion side:
